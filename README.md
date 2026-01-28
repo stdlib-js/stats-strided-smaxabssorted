@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import smaxabssorted from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-smaxabssorted@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-strided-smaxabssorted/tags). For example,
+
+```javascript
 import smaxabssorted from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-smaxabssorted@v0.1.0-deno/mod.js';
 ```
 
@@ -148,7 +153,7 @@ var v = smaxabssorted.ndarray( 4, x, 2, 1 );
 
 ```javascript
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-linspace@deno/mod.js';
-import smaxabssorted from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-smaxabssorted@v0.1.0-deno/mod.js';
+import smaxabssorted from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-smaxabssorted@deno/mod.js';
 
 var options = {
     'dtype': 'float32'

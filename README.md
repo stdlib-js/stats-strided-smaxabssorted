@@ -307,7 +307,7 @@ int main( void ) {
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/stats-strided/dmaxabssorted`][@stdlib/stats/strided/dmaxabssorted]</span><span class="delimiter">: </span><span class="description">calculate the maximum absolute value of a sorted double-precision floating-point strided array.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/dmaxabs-sorted`][@stdlib/stats/strided/dmaxabs-sorted]</span><span class="delimiter">: </span><span class="description">calculate the maximum absolute value of a sorted double-precision floating-point strided array.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/smaxabs`][@stdlib/stats/strided/smaxabs]</span><span class="delimiter">: </span><span class="description">calculate the maximum absolute value of a single-precision floating-point strided array.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/smaxsorted`][@stdlib/stats/strided/smaxsorted]</span><span class="delimiter">: </span><span class="description">calculate the maximum value of a sorted single-precision floating-point strided array.</span>
 
@@ -393,7 +393,7 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 
 <!-- <related-links> -->
 
-[@stdlib/stats/strided/dmaxabssorted]: https://github.com/stdlib-js/stats-strided-dmaxabssorted
+[@stdlib/stats/strided/dmaxabs-sorted]: https://github.com/stdlib-js/stats-strided-dmaxabs-sorted
 
 [@stdlib/stats/strided/smaxabs]: https://github.com/stdlib-js/stats-strided-smaxabs
 
